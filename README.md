@@ -1,1 +1,1 @@
-[Cyph](https://github.com/cyph/cyph) native app
+Moved to https://github.com/cyph/cyph/tree/master/app
